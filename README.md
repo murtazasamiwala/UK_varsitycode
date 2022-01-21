@@ -6,3 +6,8 @@ This repository contains the code I used to participate in the VarsityCode 2021-
 |------------------------------|---------------------|-----------------------------|
 | Challenge 1: Next technology |         65%         |             100%            |
 | Challenge 2: ARM             |         100%        |             100%            |
+| Challenge 3: Two Sigma       |         75%         |             82%             |
+|                              |                     |                             |
+|                              |                     |                             |
+|                              |                     |                             |
+|                              |                     |                             |
